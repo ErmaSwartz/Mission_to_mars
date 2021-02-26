@@ -102,7 +102,7 @@
     {
      "data": {
       "text/plain": [
-       "<li class=\"slide\"><div class=\"image_and_description_container\"><a href=\"/news/8873/nasas-perseverance-rover-gives-high-definition-panoramic-view-of-landing-site/\" target=\"_self\"><div class=\"rollover_description\"><div class=\"rollover_description_inner\">A 360-degree panorama taken by the rover’s Mastcam-Z instrument will be discussed during a public video chat this Thursday.</div><div class=\"overlay_arrow\"><img alt=\"More\" src=\"/assets/overlay-arrow.png\"/></div></div><div class=\"list_image\"><img alt=\"A panoramic view of Mars taken at the location where the Perseverance rover landed. \" src=\"/system/news_items/list_view_images/8873_PIA2464-Perseverance_Sol3_Mastcam-Z_panorama-320x240.jpg\"/></div><div class=\"bottom_gradient\"><div><h3>NASA's Perseverance Rover Gives High-Definition Panoramic View of Landing Site</h3></div></div></a><div class=\"list_text\"><div class=\"list_date\">February 24, 2021</div><div class=\"content_title\"><a href=\"/news/8873/nasas-perseverance-rover-gives-high-definition-panoramic-view-of-landing-site/\" target=\"_self\">NASA's Perseverance Rover Gives High-Definition Panoramic View of Landing Site</a></div><div class=\"article_teaser_body\">A 360-degree panorama taken by the rover’s Mastcam-Z instrument will be discussed during a public video chat this Thursday.</div></div></div></li>"
+       "<li class=\"slide\"><div class=\"image_and_description_container\"><a href=\"/news/8859/sensors-prepare-to-collect-data-as-perseverance-enters-mars-atmosphere/\" target=\"_self\"><div class=\"rollover_description\"><div class=\"rollover_description_inner\">Technology will collect critical data about the harsh entry environment during Perseverance’s entry next Thursday.</div><div class=\"overlay_arrow\"><img alt=\"More\" src=\"/assets/overlay-arrow.png\"/></div></div><div class=\"list_image\"><img alt=\"MEDLI\" src=\"/system/news_items/list_view_images/8859_medli2_320x240.jpg\"/></div><div class=\"bottom_gradient\"><div><h3>Sensors Prepare to Collect Data as Perseverance Enters Mars' Atmosphere</h3></div></div></a><div class=\"list_text\"><div class=\"list_date\">February 12, 2021</div><div class=\"content_title\"><a href=\"/news/8859/sensors-prepare-to-collect-data-as-perseverance-enters-mars-atmosphere/\" target=\"_self\">Sensors Prepare to Collect Data as Perseverance Enters Mars' Atmosphere</a></div><div class=\"article_teaser_body\">Technology will collect critical data about the harsh entry environment during Perseverance’s entry next Thursday.</div></div></div></li>"
       ]
      },
      "execution_count": 7,
@@ -122,7 +122,7 @@
     {
      "data": {
       "text/plain": [
-       "<div class=\"content_title\"><a href=\"/news/8873/nasas-perseverance-rover-gives-high-definition-panoramic-view-of-landing-site/\" target=\"_self\">NASA's Perseverance Rover Gives High-Definition Panoramic View of Landing Site</a></div>"
+       "<div class=\"content_title\"><a href=\"/news/8859/sensors-prepare-to-collect-data-as-perseverance-enters-mars-atmosphere/\" target=\"_self\">Sensors Prepare to Collect Data as Perseverance Enters Mars' Atmosphere</a></div>"
       ]
      },
      "execution_count": 8,
@@ -143,7 +143,7 @@
     {
      "data": {
       "text/plain": [
-       "\"NASA's Perseverance Rover Gives High-Definition Panoramic View of Landing Site\""
+       "\"Sensors Prepare to Collect Data as Perseverance Enters Mars' Atmosphere\""
       ]
      },
      "execution_count": 9,
@@ -165,7 +165,7 @@
     {
      "data": {
       "text/plain": [
-       "'A 360-degree panorama taken by the rover’s Mastcam-Z instrument will be discussed during a public video chat this Thursday.'"
+       "'Technology will collect critical data about the harsh entry environment during Perseverance’s entry next Thursday.'"
       ]
      },
      "execution_count": 10,
@@ -188,7 +188,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 11,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -199,7 +199,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -210,7 +210,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 18,
+   "execution_count": 13,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -221,7 +221,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 14,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -232,16 +232,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 20,
+   "execution_count": 15,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "'image/featured/mars2.jpg'"
+       "'image/featured/mars3.jpg'"
       ]
      },
-     "execution_count": 20,
+     "execution_count": 15,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -254,16 +254,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": 16,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "'https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/image/featured/mars2.jpg'"
+       "'https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/image/featured/mars3.jpg'"
       ]
      },
-     "execution_count": 21,
+     "execution_count": 16,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -279,7 +279,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [
     {
@@ -365,7 +365,7 @@
        "Recorded By:                   Egyptian astronomers"
       ]
      },
-     "execution_count": 22,
+     "execution_count": 17,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -379,7 +379,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 18,
    "metadata": {},
    "outputs": [
     {
@@ -398,7 +398,7 @@
        "Recorded By:                   Egyptian astronomers>"
       ]
      },
-     "execution_count": 23,
+     "execution_count": 18,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -410,7 +410,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
+   "execution_count": 19,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -427,7 +427,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
+   "execution_count": 20,
    "metadata": {},
    "outputs": [
     {
@@ -494,7 +494,7 @@
        "4       Orbit Distance:       227,943,824 km (1.38 AU)"
       ]
      },
-     "execution_count": 25,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -507,7 +507,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 26,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [
     {
@@ -593,7 +593,7 @@
        "Recorded By:                   Egyptian astronomers"
       ]
      },
-     "execution_count": 26,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -606,7 +606,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+   "execution_count": 22,
    "metadata": {},
    "outputs": [
     {
@@ -615,7 +615,7 @@
        "'<table border=\"1\" class=\"dataframe\">\\n  <thead>\\n    <tr style=\"text-align: right;\">\\n      <th></th>\\n      <th>Mars</th>\\n    </tr>\\n    <tr>\\n      <th>Description</th>\\n      <th></th>\\n    </tr>\\n  </thead>\\n  <tbody>\\n    <tr>\\n      <th>Equatorial Diameter:</th>\\n      <td>6,792 km</td>\\n    </tr>\\n    <tr>\\n      <th>Polar Diameter:</th>\\n      <td>6,752 km</td>\\n    </tr>\\n    <tr>\\n      <th>Mass:</th>\\n      <td>6.39 × 10^23 kg (0.11 Earths)</td>\\n    </tr>\\n    <tr>\\n      <th>Moons:</th>\\n      <td>2 (Phobos &amp; Deimos)</td>\\n    </tr>\\n    <tr>\\n      <th>Orbit Distance:</th>\\n      <td>227,943,824 km (1.38 AU)</td>\\n    </tr>\\n    <tr>\\n      <th>Orbit Period:</th>\\n      <td>687 days (1.9 years)</td>\\n    </tr>\\n    <tr>\\n      <th>Surface Temperature:</th>\\n      <td>-87 to -5 °C</td>\\n    </tr>\\n    <tr>\\n      <th>First Record:</th>\\n      <td>2nd millennium BC</td>\\n    </tr>\\n    <tr>\\n      <th>Recorded By:</th>\\n      <td>Egyptian astronomers</td>\\n    </tr>\\n  </tbody>\\n</table>'"
       ]
      },
-     "execution_count": 27,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -633,7 +633,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
+   "execution_count": 23,
    "metadata": {},
    "outputs": [
     {
@@ -932,6 +932,536 @@
       "    699.1\n",
       "   </td>\n",
       "  </tr>\n",
+      "  <tr>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    Feb. 10, 2021\n",
+      "   </th>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    786\n",
+      "   </th>\n",
+      "   <td class=\"temperature max\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature avg\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature min\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed max\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed avg\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed min\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed point\">\n",
+      "    <span class=\"nodata\">\n",
+      "     N/A\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"pressure max\">\n",
+      "    743.6\n",
+      "   </td>\n",
+      "   <td class=\"pressure avg\">\n",
+      "    721.4\n",
+      "   </td>\n",
+      "   <td class=\"pressure min\">\n",
+      "    698.8\n",
+      "   </td>\n",
+      "  </tr>\n",
+      "  <tr>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    Feb. 9, 2021\n",
+      "   </th>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    785\n",
+      "   </th>\n",
+      "   <td class=\"temperature max\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature avg\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature min\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed max\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed avg\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed min\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed point\">\n",
+      "    <span class=\"nodata\">\n",
+      "     N/A\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"pressure max\">\n",
+      "    742.3\n",
+      "   </td>\n",
+      "   <td class=\"pressure avg\">\n",
+      "    720.6\n",
+      "   </td>\n",
+      "   <td class=\"pressure min\">\n",
+      "    698.2\n",
+      "   </td>\n",
+      "  </tr>\n",
+      "  <tr>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    Feb. 8, 2021\n",
+      "   </th>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    784\n",
+      "   </th>\n",
+      "   <td class=\"temperature max\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature avg\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature min\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed max\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed avg\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed min\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed point\">\n",
+      "    <span class=\"nodata\">\n",
+      "     N/A\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"pressure max\">\n",
+      "    742\n",
+      "   </td>\n",
+      "   <td class=\"pressure avg\">\n",
+      "    720.8\n",
+      "   </td>\n",
+      "   <td class=\"pressure min\">\n",
+      "    696.7\n",
+      "   </td>\n",
+      "  </tr>\n",
+      "  <tr>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    Feb. 7, 2021\n",
+      "   </th>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    783\n",
+      "   </th>\n",
+      "   <td class=\"temperature max\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature avg\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature min\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed max\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed avg\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed min\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed point\">\n",
+      "    <span class=\"nodata\">\n",
+      "     N/A\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"pressure max\">\n",
+      "    743.2\n",
+      "   </td>\n",
+      "   <td class=\"pressure avg\">\n",
+      "    722.2\n",
+      "   </td>\n",
+      "   <td class=\"pressure min\">\n",
+      "    698.8\n",
+      "   </td>\n",
+      "  </tr>\n",
+      "  <tr>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    Feb. 6, 2021\n",
+      "   </th>\n",
+      "   <th class=\"sol\" scope=\"row\">\n",
+      "    782\n",
+      "   </th>\n",
+      "   <td class=\"temperature max\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature avg\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"temperature min\">\n",
+      "    <span class=\"fahrenheit\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "    <span class=\"celsius\" style=\"display: none;\">\n",
+      "     <nobr>\n",
+      "      <span class=\"nodata\">\n",
+      "       N/A\n",
+      "      </span>\n",
+      "     </nobr>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed max\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed avg\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed min\">\n",
+      "    <span class=\"mph\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "    <span class=\"mps\" style=\"display:none\">\n",
+      "     <span class=\"nodata\">\n",
+      "      N/A\n",
+      "     </span>\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"windspeed point\">\n",
+      "    <span class=\"nodata\">\n",
+      "     N/A\n",
+      "    </span>\n",
+      "   </td>\n",
+      "   <td class=\"pressure max\">\n",
+      "    742.3\n",
+      "   </td>\n",
+      "   <td class=\"pressure avg\">\n",
+      "    721.8\n",
+      "   </td>\n",
+      "   <td class=\"pressure min\">\n",
+      "    698.8\n",
+      "   </td>\n",
+      "  </tr>\n",
       " </tbody>\n",
       "</table>\n"
      ]
@@ -952,7 +1482,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
+   "execution_count": 24,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -963,7 +1493,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 30,
+   "execution_count": 25,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -974,12 +1504,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 31,
+   "execution_count": 26,
    "metadata": {},
    "outputs": [],
    "source": [
     "# 2. Create a list to hold the images and titles.\n",
     "hemisphere_image_urls = []\n",
+    "hempisphere_dictionary = {}\n",
     "# 3. Write code to retrieve the image urls and titles for each hemisphere.\n",
     "\n",
     "\n",
@@ -991,7 +1522,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
+   "execution_count": 27,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1000,57 +1531,74 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 33,
+   "execution_count": 28,
    "metadata": {
     "scrolled": true
    },
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Users\\ermah\\anaconda3\\envs\\PythonData\\lib\\site-packages\\splinter\\driver\\webdriver\\__init__.py:493: FutureWarning: browser.find_link_by_partial_text is deprecated. Use browser.links.find_by_partial_text instead.\n",
+      "  FutureWarning,\n"
+     ]
+    }
+   ],
    "source": [
     "results = html_soup.find_all('h3')\n",
     "\n",
     "# loop over results to get article data\n",
     "for result in results:\n",
-    "    hempisphere_dictionary = {}\n",
     "    result = result.get_text()\n",
     "    browser.click_link_by_partial_text(result)\n",
     "    html = browser.html\n",
     "    img_soup = soup(html, 'html.parser')\n",
     "    # find the relative image url\n",
     "    img_url = img_soup.find('img', class_='wide-image').get('src')\n",
-    "    full_url = 'https://astrogeology.usgs.gov' + img_url\n",
     "    title = img_soup.find('h2', class_='title').get_text()\n",
     "    # add the title as key and images as value \n",
-    "    hempisphere_dictionary['img_url'] = full_url\n",
-    "    hempisphere_dictionary['title'] = title\n",
-    "    # add the dictionary to the list \n",
-    "    hemisphere_image_urls.append(hempisphere_dictionary)\n",
+    "    hempisphere_dictionary[title] = img_url\n",
     "    \n",
     "    browser.back()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 34,
+   "execution_count": 29,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "[]"
+       "{'Cerberus Hemisphere Enhanced': '/cache/images/f5e372a36edfa389625da6d0cc25d905_cerberus_enhanced.tif_full.jpg',\n",
+       " 'Schiaparelli Hemisphere Enhanced': '/cache/images/3778f7b43bbbc89d6e3cfabb3613ba93_schiaparelli_enhanced.tif_full.jpg',\n",
+       " 'Syrtis Major Hemisphere Enhanced': '/cache/images/555e6403a6ddd7ba16ddb0e471cadcf7_syrtis_major_enhanced.tif_full.jpg',\n",
+       " 'Valles Marineris Hemisphere Enhanced': '/cache/images/b3c7c6c9138f57b4756be9b9c43e3a48_valles_marineris_enhanced.tif_full.jpg'}"
       ]
      },
-     "execution_count": 34,
+     "execution_count": 29,
      "metadata": {},
      "output_type": "execute_result"
     }
    ],
    "source": [
-    "hemisphere_image_urls"
+    "hempisphere_dictionary"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 35,
+   "execution_count": 30,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# add the dictionary to the list \n",
+    "hemisphere_image_urls.append(hempisphere_dictionary)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
    "metadata": {},
    "outputs": [
     {
@@ -1059,7 +1607,7 @@
        "'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/image/featured/mars2.jpg'"
       ]
      },
-     "execution_count": 35,
+     "execution_count": 33,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1071,16 +1619,19 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 36,
+   "execution_count": 34,
    "metadata": {},
    "outputs": [
     {
      "data": {
       "text/plain": [
-       "[]"
+       "[{'Cerberus Hemisphere Enhanced': '/cache/images/f5e372a36edfa389625da6d0cc25d905_cerberus_enhanced.tif_full.jpg',\n",
+       "  'Schiaparelli Hemisphere Enhanced': '/cache/images/3778f7b43bbbc89d6e3cfabb3613ba93_schiaparelli_enhanced.tif_full.jpg',\n",
+       "  'Syrtis Major Hemisphere Enhanced': '/cache/images/555e6403a6ddd7ba16ddb0e471cadcf7_syrtis_major_enhanced.tif_full.jpg',\n",
+       "  'Valles Marineris Hemisphere Enhanced': '/cache/images/b3c7c6c9138f57b4756be9b9c43e3a48_valles_marineris_enhanced.tif_full.jpg'}]"
       ]
      },
-     "execution_count": 36,
+     "execution_count": 34,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1092,20 +1643,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 37,
+   "execution_count": 35,
    "metadata": {},
    "outputs": [],
    "source": [
     "# 5. Quit the browser\n",
     "browser.quit()"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {

@@ -21,8 +21,10 @@ def scrape_all():
         "news_paragraph": news_paragraph,
         "featured_image": featured_image(browser),
         "facts": mars_facts(),
+        "hemispheres": scrape_hemisphere_data(browser),
         "last_modified": dt.datetime.now()
-    }
+     }
+    
      # Stop webdriver and return data
     browser.quit()
     return data
@@ -52,6 +54,7 @@ def mars_news(browser):
         return None, None
 
     return news_title, news_p
+
 def featured_image(browser):
     # Visit URL
     url = 'https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html'
@@ -93,4 +96,39 @@ def mars_facts():
     # Convert dataframe into HTML format, add bootstrap
     return df.to_html()
 
+def scrape_hemisphere_data(browser):
+    d1_url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'
+    browser.visit(d1_url)
+    # 2. Create a list to hold the images and titles.
+    hemisphere_image_urls = []
+    # 3. Write code to retrieve the image urls and titles for each hemisphere.
+
+
+    # Parse the HTML
+    html = browser.html
+    html_soup = soup(html, 'html.parser')
+    # nasa = browser.find_by_tag('h3')
+    results = html_soup.find_all('h3')
+
+    # loop over results to get article data
+    for result in results:
+        hemisphere_dictionary = {}
+        result = result.get_text()
+        browser.click_link_by_partial_text(result)
+        html = browser.html
+        img_soup = soup(html, 'html.parser')
+        # find the relative image url
+        img_url = img_soup.find('img', class_='wide-image').get('src')
+        full_url = 'https://astrogeology.usgs.gov' + img_url
+        title = img_soup.find('h2', class_='title').get_text()
+        # add the title as key and images as value 
+        hemisphere_dictionary['img_url'] = full_url
+        hemisphere_dictionary['title'] = title
+        # add the dictionary to the list 
+        hemisphere_image_urls.append(hemisphere_dictionary)
+    
+        browser.back()
+    # add the dictionary to the list 
+    
+    return hemisphere_image_urls
 browser.quit()
